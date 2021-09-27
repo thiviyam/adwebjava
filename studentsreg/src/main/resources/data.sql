@@ -1,0 +1,6 @@
+insert into Students values (12, 'Thiviya', 'Muruganadam', 'female', 8)
+insert into Students values (13, 'Ravi', 'Muruganadam', 'male', 9)
+insert into Students values (14, 'Murugu', 'Logaraj', 'male', 12)
+insert into Students values (15, 'Raji', 'Partha', 'female', 11)
+insert into Students values (16, 'Pavan', 'Rajan', 'male', 4)
+insert into Students values (17, 'Rohini', 'Sekar', 'female', 6)
